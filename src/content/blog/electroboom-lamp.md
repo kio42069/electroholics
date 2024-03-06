@@ -14,4 +14,4 @@ description:
 
 ## Concept
 
-Just watch the video, it's way too cool for me to describe.
+Just watch the [video](https://www.youtube.com/watch?v=iJGPMMMn8VU&pp=ygUTZWxlY3Ryb2Jvb20gZmlyZWZseQ%3D%3D), it's way too cool for me to describe.
