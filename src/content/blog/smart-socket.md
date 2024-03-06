@@ -1,5 +1,5 @@
 ---
-title: Smart SOcket 
+title: Smart Socket 
 author: Kiddo42069
 pubDatetime: 2024-03-06T16:51:20.014Z
 slug: smart-socket
