@@ -1,7 +1,7 @@
 ---
 title: Room Automation 
 author: Kiddo42069
-pubDatetime: 2022-09-21T05:17:19Z
+pubDatetime: 2024-03-06T16:51:20.014Z
 slug: room-automation
 featured: false
 draft: false
