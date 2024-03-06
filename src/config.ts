@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
   author: "Kiddo42069",
   desc: "A list of projects I wish to complete some day",
-  title: "KiddoHolics",
+  title: "Electroholics",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -28,7 +28,7 @@ export const SOCIALS: SocialObjects = [
     name: "Github",
     href: "https://github.com/kio42069/",
     linkTitle: ` ${SITE.title} on Github`,
-    active: true,
+    active: false,
   },
   {
     name: "Facebook",
@@ -46,11 +46,11 @@ export const SOCIALS: SocialObjects = [
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/surat-sathi-samanta-01b973263/",
     linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
+    active: false,
   },
   {
     name: "Mail",
-    href: "mailto:surat22517@iiitd.ac.in",
+    href: "mailto:electroholics@sc.iiitd.ac.in",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
   },
