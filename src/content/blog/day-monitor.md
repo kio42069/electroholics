@@ -16,4 +16,4 @@ description:
 
 Google calendar integration, will have an ESP in deep sleep, will wake up when a button is pressed or any trigger for that matter, and will blink an LED in either Green, Blue, Red or Yellow depending on what the current calendar event is. Optional Screen to display the event too.
 
-![image](@assets/images/calendar.png)
+![image](../../assets/images/caldendar.png)
