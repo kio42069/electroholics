@@ -3,7 +3,7 @@ title: FPV Car
 author: Kiddo42069
 pubDatetime: 2024-06-03T22:06:31Z
 slug: fpv-car
-featured: false
+featured: true
 draft: false
 tags:
   - IoT
